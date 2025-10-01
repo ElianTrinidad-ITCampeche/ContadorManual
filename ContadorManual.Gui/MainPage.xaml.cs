@@ -7,7 +7,7 @@
         public MainPage()
         {
             InitializeComponent();
-            _conteo = 5;
+            _conteo = 0;
             ConteoLabel.Text = _conteo.ToString();
         }
 
